@@ -87,7 +87,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=AhmedAbdElFatah7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=AhmedAbdElFatah7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=-?" alt="Trophies" />
 </div>
 
 ---
@@ -99,49 +99,15 @@
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedAbdElFatah7&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedAbdElFatah7&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedAbdElFatah7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
-### 🎮 Choose Your Favorite Feature:
+### 🕹️ Pac-Man Contribution Arcade
 
-#### 🏙️ [Option 1] - 3D Isometric Contribution City
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" width="100%" alt="3D Contribution City" />
-</div>
-
-<br>
-
-#### 🕹️ [Option 2] - Pac-Man Arcade Contribution Game
 <div align="center">
   <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/assets/demo/pacman-dark.svg" width="100%" alt="Pac-Man Contribution Graph" />
-</div>
-
-<br>
-
-#### ⚔️ [Option 3] - RPG Developer Character Sheet
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <pre>
-╔════════════════════════════════════════════════════════════════════════════╗
-║  ⚔️ CHARACTER: Ahmed Abdelfatah           CLASS: Backend Architect         ║
-║  ⭐ LEVEL: 24 (Mansoura CS)               TITLE: Laravel & Clean Code      ║
-╠════════════════════════════════════════════════════════════════════════════╣
-║  ❤️ HP  (Code Cleanliness) : [████████████████████] 100% (SOLID Principles)║
-║  ⚡ MP  (Query Latency)    : [████████████████████] 100% (Redis & Indexing)║
-║  🛡️ DEF (System Security)  : [██████████████████░░] 95%  (JWT Auth & RBAC) ║
-║  🗡️ ATK (Dev Velocity)     : [████████████████████] 98%  (Docker & CI/CD)  ║
-╠════════════════════════════════════════════════════════════════════════════╣
-║  🎒 INVENTORY: [PHP 8.x] [Laravel] [MySQL] [PostgreSQL] [Redis] [Docker]   ║
-║  ✨ SPECIAL  : Zero-Downtime APIs & High-Concurrency Systems               ║
-╚════════════════════════════════════════════════════════════════════════════╝
-        </pre>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
