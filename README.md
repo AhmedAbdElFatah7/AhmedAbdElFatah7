@@ -29,32 +29,6 @@
 
 ---
 
-### 💻 Developer Snapshot
-
-```php
-<?php
-
-namespace Developer\Profile;
-
-class AhmedAbdelfatah extends BackendEngineer 
-{
-    public string $focus      = "Scalable Web Architectures & RESTful APIs";
-    public string $coreStack  = "PHP 8+ | Laravel | MySQL | Redis";
-    public array  $mindset    = [
-        "Architecture" => "Clean Architecture & SOLID Principles",
-        "Performance"  => "Database Indexing & Caching Strategies",
-        "Reliability"  => "Queue Jobs, Event-Driven & Async Processing"
-    ];
-
-    public function getStatus(): string 
-    {
-        return "Building robust backends and ready for high-impact challenges 🚀";
-    }
-}
-```
-
----
-
 ### 🛠️ Skills & Technologies
 
 <div align="center">
@@ -77,7 +51,7 @@ class AhmedAbdelfatah extends BackendEngineer
 
 ---
 
-### 🚀 Featured Client & Enterprise Projects
+### 🚀 Highlighted Projects
 
 <table>
   <tr>
@@ -113,7 +87,7 @@ class AhmedAbdelfatah extends BackendEngineer
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAbdElFatah7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=AhmedAbdElFatah7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
@@ -121,28 +95,53 @@ class AhmedAbdelfatah extends BackendEngineer
 ### 📊 Activity & Statistics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdElFatah7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://streak-stats.demolab.com/?user=AhmedAbdElFatah7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdElFatah7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com/?user=AhmedAbdElFatah7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedAbdElFatah7&theme=tokyonight" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedAbdElFatah7&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+### 🎮 Choose Your Favorite Feature:
+
+#### 🏙️ [Option 1] - 3D Isometric Contribution City
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" width="100%" alt="3D Contribution City" />
 </div>
 
 <br>
 
+#### 🕹️ [Option 2] - Pac-Man Arcade Contribution Game
 <div align="center">
-  <!-- Dynamic GitHub Activity Wave Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbdElFatah7&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/assets/demo/pacman-dark.svg" width="100%" alt="Pac-Man Contribution Graph" />
+</div>
+
+<br>
+
+#### ⚔️ [Option 3] - RPG Developer Character Sheet
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <pre>
+╔════════════════════════════════════════════════════════════════════════════╗
+║  ⚔️ CHARACTER: Ahmed Abdelfatah           CLASS: Backend Architect         ║
+║  ⭐ LEVEL: 24 (Mansoura CS)               TITLE: Laravel & Clean Code      ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  ❤️ HP  (Code Cleanliness) : [████████████████████] 100% (SOLID Principles)║
+║  ⚡ MP  (Query Latency)    : [████████████████████] 100% (Redis & Indexing)║
+║  🛡️ DEF (System Security)  : [██████████████████░░] 95%  (JWT Auth & RBAC) ║
+║  🗡️ ATK (Dev Velocity)     : [████████████████████] 98%  (Docker & CI/CD)  ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║  🎒 INVENTORY: [PHP 8.x] [Laravel] [MySQL] [PostgreSQL] [Redis] [Docker]   ║
+║  ✨ SPECIAL  : Zero-Downtime APIs & High-Concurrency Systems               ║
+╚════════════════════════════════════════════════════════════════════════════╝
+        </pre>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
