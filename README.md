@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Dynamic Twinkling Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0f172a,FF2D20,1e293b&height=180&section=header&text=Ahmed%20Abdelfatah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Backend%20Laravel%20Developer%20%7C%20Scalable%20Systems&descAlignY=58&descAlign=50" width="100%" />
+  <!-- Dynamic Twinkling Neon Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0f172a,FF2D20,1e293b&height=200&section=header&text=Ahmed%20Abdelfatah&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Backend%20Laravel%20Developer%20%7C%20Scalable%20Systems&descAlignY=58&descAlign=50" width="100%" />
 
-  <!-- Animated Mac Terminal CLI Hero -->
+  <!-- Animated Glowing Typing SVG -->
   <a href="https://github.com/AhmedAbdElFatah7">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=AhmedAbdElFatah7&theme=tokyonight" width="90%" alt="Ahmed's Terminal CLI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmed+Abdelfatah+%F0%9F%91%8B;Senior+Backend+Laravel+Developer+%F0%9F%9A%80;Building+Scalable+RESTful+APIs+%E2%9A%A1;Clean+Architecture+%26+High+Performance+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 
   <!-- Badges -->
@@ -25,9 +25,12 @@
     <img src="https://komarev.com/ghpvc/?username=AhmedAbdElFatah7&style=flat-square&color=ff2d20&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
+  <!-- Animated Neon Glowing Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
 </div>
 
----
+<br>
 
 ### 🛠️ Skills & Technologies
 
