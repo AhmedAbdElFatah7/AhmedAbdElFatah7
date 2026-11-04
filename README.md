@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=1e293b,FF2D20,0f172a&height=180&section=header&text=Ahmed%20Abdelfatah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Laravel%20Developer%20%7C%20Scalable%20Systems&descAlignY=58&descAlign=50" width="100%" />
+  <!-- Dynamic Twinkling Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0f172a,FF2D20,1e293b&height=180&section=header&text=Ahmed%20Abdelfatah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Backend%20Laravel%20Developer%20%7C%20Scalable%20Systems&descAlignY=58&descAlign=50" width="100%" />
 
-  <!-- Animated Typing SVG -->
+  <!-- Animated Mac Terminal CLI Hero -->
   <a href="https://github.com/AhmedAbdElFatah7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmed+Abdelfatah+%F0%9F%91%8B;Backend+Laravel+Developer+%F0%9F%9A%80;Building+Scalable+RESTful+APIs+%E2%9A%A1;Clean+Architecture+%26+High+Performance+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=AhmedAbdElFatah7&theme=tokyonight" width="90%" alt="Ahmed's Terminal CLI" />
   </a>
 
   <!-- Badges -->
