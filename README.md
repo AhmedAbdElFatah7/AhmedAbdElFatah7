@@ -1,35 +1,36 @@
 <div align="center">
 
-  <table border="0" width="100%">
-    <tr valign="middle">
-      <td width="38%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyber Developer Coding" />
-      </td>
-      <td width="62%" align="left">
-        <h2>&nbsp;&nbsp;Hi there, I'm Ahmed Abdelfatah 👋</h2>
-        <a href="https://github.com/AhmedAbdElFatah7">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2D20&center=false&vCenter=true&width=500&lines=Senior+Backend+Laravel+Developer+%F0%9F%9A%80;Building+Scalable+RESTful+APIs+%E2%9A%A1;Clean+Architecture+%26+Performance+%F0%9F%9B%A0%EF%B8%8F;Mansoura+University+CS+Graduate+%F0%9F%8E%93" alt="Typing SVG" />
-        </a>
-        <br><br>
-        <p>
-          &nbsp;&nbsp;
-          <a href="https://www.linkedin.com/in/ahmed-abdelfatah7/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          </a>
-          <a href="mailto:ahmedabdelfatah3121@gmail.com">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-          </a>
-          <a href="https://wa.me/201008379521" target="_blank">
-            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-          </a>
-        </p>
-        <p>
-          &nbsp;&nbsp;
-          <img src="https://komarev.com/ghpvc/?username=AhmedAbdElFatah7&style=flat-square&color=ff2d20&label=PROFILE+VIEWS" alt="Profile Views" />
-        </p>
-      </td>
-    </tr>
-  </table>
+  <!-- Dynamic Twinkling Neon Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0f172a,FF2D20,1e293b&height=200&section=header&text=Ahmed%20Abdelfatah&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Backend%20Laravel%20Developer%20%7C%20Scalable%20Systems&descAlignY=58&descAlign=50" width="100%" />
+
+  <!-- Animated Glowing Typing SVG -->
+  <a href="https://github.com/AhmedAbdElFatah7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmed+Abdelfatah+%F0%9F%91%8B;Senior+Backend+Laravel+Developer+%F0%9F%9A%80;Building+Scalable+RESTful+APIs+%E2%9A%A1;Clean+Architecture+%26+High+Performance+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  </a>
+
+  <!-- Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ahmed-abdelfatah7/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ahmedabdelfatah3121@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://wa.me/201008379521" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AhmedAbdElFatah7&style=flat-square&color=ff2d20&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+
+  <!-- Animated Mac Terminal CLI Hero -->
+  <a href="https://github.com/AhmedAbdElFatah7">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=AhmedAbdElFatah7&theme=tokyonight" width="90%" alt="Ahmed's Terminal CLI" />
+  </a>
+
+  <br><br>
 
   <!-- Animated Neon Glowing Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
